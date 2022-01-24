@@ -4,6 +4,5 @@ node_modules/*
 .eslintrc
 babel.config.js
 jest.config.js
-HELP.md
 .exercism
 tsconfig.json
